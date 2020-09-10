@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://labchezmoi.github.io/2020/09/10/hello-there/</loc>
+    
+    <lastmod>2020-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://labchezmoi.github.io/categories/index.html</loc>
+    
+    <lastmod>2020-09-10</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://labchezmoi.github.io/tags/index.html</loc>
+    
+    <lastmod>2020-09-10</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://labchezmoi.github.io/1970/01/01/hello-world/</loc>
     
     <lastmod>2020-09-10</lastmod>
@@ -16,6 +37,27 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://labchezmoi.github.io/tags/%E4%BE%83%E4%BE%83/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://labchezmoi.github.io/tags/%E7%9E%8E%E6%8E%B0/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://labchezmoi.github.io/tags/%E5%8F%91%E7%89%A2%E9%AA%9A/</loc>
+    <lastmod>2020-09-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
   
 
   
